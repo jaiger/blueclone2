@@ -1,0 +1,11 @@
+
+
+
+#define BASS_CLOCK 8    //PORTB 0
+#define VAC_PWM 9
+#define VAC_CUTOFF 10
+#define PWM_OUT 11      //PORTB 3
+#define SAW_OUT 12      //PORTB 4
+#define MIDI_ACTIVE 13
+
+
